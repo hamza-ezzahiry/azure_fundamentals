@@ -27,13 +27,18 @@ In this learning path, you will:
 
 
 **Table of Contents**
-
-- [ ] 1. Cloud Concepts - Principles of cloud computing
-- [ ] 2. Core Cloud Services - Introduction to Azure
-- [ ] 3. Core Cloud Services - Azure architecture and service guarantees
-- [ ] 4. Create an Azure account
-- [ ] 5. Core Cloud Services - Manage services with the Azure portal
-- [ ] 6. ...
+- [ ] 01. Cloud Concepts - Principles of cloud computing
+- [ ] 02. Core Cloud Services - Introduction to Azure
+- [ ] 03. Core Cloud Services - Azure architecture and service guarantees
+- [ ] 04. Create an Azure account
+- [ ] 05. Core Cloud Services - Manage services with the Azure portal
+- [ ] 06. Core Cloud Services - Azure compute options
+- [ ] 07. Core Cloud Services - Azure data storage options
+- [ ] 08. Core Cloud Services - Azure networking options
+- [ ] 09. Security, responsibility, and trust in Azure
+- [ ] 10. Apply and monitor infrastructure standards with Azure Policy
+- [ ] 11. Control and organize Azure resources with Azure Resource Manager
+- [ ] 12. Predict costs and optimize spending for Azure
 
 ### Resume of very part
 1. Cloud Concepts - Principles of cloud computing
