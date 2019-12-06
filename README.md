@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://i.imgur.com/jm1e5Hk.jpg" height="130">
+</p>
+
 ### About 
 Here we post our resumes and resources about **[Azure fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/ "Azure fundamentals")**
 
@@ -12,10 +16,6 @@ In this learning path, you will:
 # Azure_fundamentals
 
 <img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" height="200">
-
-![](https://img.shields.io/github/stars/hamza-ezzahiry/azure_fundamentals.svg)
- ![](https://img.shields.io/github/forkshamza-ezzahiry/azure_fundamentals.svg)
-![](https://img.shields.io/bower/v/editor.md.svg)
 
 
 ### AZ-900
@@ -72,3 +72,9 @@ You have to practice for the exam
 
 <img src="https://joranmarkx.files.wordpress.com/2014/09/2014-09-15_21h45_08.png" width="621" height="306">
 
+## Contributors
+
+<p align="center"> This repo exists thanks to all the people who contribute.<br>
+<a href="https://github.com/hamza-ezzahiry/azure_fundamentals/graphs/contributors">
+ <img src="https://i.imgur.com/eYNbyDR.png" height="400" />
+</a></p>
