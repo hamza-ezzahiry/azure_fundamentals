@@ -13,6 +13,10 @@ In this learning path, you will:
 
 <img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" height="200">
 
+![](https://img.shields.io/github/stars/hamza-ezzahiry/azure_fundamentals.svg)
+ ![](https://img.shields.io/github/forkshamza-ezzahiry/azure_fundamentals.svg)
+![](https://img.shields.io/bower/v/editor.md.svg)
+
 
 ### AZ-900
 -  [Azure Fundamentals Learning Path on Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index)
