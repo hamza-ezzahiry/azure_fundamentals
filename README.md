@@ -52,6 +52,8 @@ You have to practice for the exam
 > " ➡️ Site w9ewd to prepare for the exam Azure AZ-900 ", [itexams](https://www.itexams.com/exam/AZ-900)。
 
 
+### Azure Data Center Location
 
+<img src="https://joranmarkx.files.wordpress.com/2014/09/2014-09-15_21h45_08.png" width="621" height="306">
 
 
