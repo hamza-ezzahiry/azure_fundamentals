@@ -42,14 +42,18 @@ In this learning path, you will:
 - [ ] 12. Predict costs and optimize spending for Azure
 
 ### Resume of very part
-1. Cloud Concepts - Principles of cloud computing
-
-> "Cloud computing in very simple terms, is basically where a company uses someone elses computing services that include compute power, storage, networking and analytics (usually over the internet) instead of having to run that software on their own computers."
-> "Benefits of cloud computing : It's cost-effective, scalable, elastic, current, reliable, global && secure"
-
-2. Core Cloud Services - Introduction to Azure
-
-> "lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. "
+**[01. Cloud Concepts - Principles of cloud computing](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/01_Cloud_Concepts_Principles_of_cloud_computing.md)**
+**[02. Core Cloud Services - Introduction to Azure](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/02_Core_Cloud_Services_Introduction_to_Azure.md)**
+**[03. Core Cloud Services - Azure architecture and service guarantees](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/03_Core_Cloud_Services_Azure_architecture_and_service_guarantees.md)**
+**[04. Create an Azure account](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/04_Create_an_Azure_account.md)**
+**[05. Core Cloud Services - Manage services with the Azure portal](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/05_Core_Cloud_Services_Manage_services_with_the_Azure_portal.md)**
+**[06. Core Cloud Services - Azure compute options](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/06_Core_Cloud_Services_Azure_compute_options.md)**
+**[07. Core Cloud Services - Azure data storage options](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/07_Core_Cloud_Services_Azure_data_storage_options.md)**
+**[08. Core Cloud Services - Azure networking options](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/08_Core_Cloud_Services_Azure_networking_options.md)**
+**[09. Security, responsibility, and trust in Azure](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/09_Security_responsibility_and_trust_in_Azure.md)**
+**[10. Apply and monitor infrastructure standards with Azure Policy](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/10_Apply_and_monitor_infrastructure_standards_with_Azure_Policy.md)**
+**[11. Control and organize Azure resources with Azure Resource Manager](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/11_Control_and_organize_Azure_resources_with_Azure_Resource_Manager.md)**
+**[12. Predict costs and optimize spending for Azure](https://github.com/hamza-ezzahiry/azure_fundamentals/blob/master/12_Predict_costs_and_optimize_spending_for_Azure.md)**
 
 ### I finish everything, What's next ?
 
