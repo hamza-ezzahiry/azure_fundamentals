@@ -27,6 +27,7 @@ In this learning path, you will:
 
 
 **Table of Contents**
+
 - [ ] 01. Cloud Concepts - Principles of cloud computing
 - [ ] 02. Core Cloud Services - Introduction to Azure
 - [ ] 03. Core Cloud Services - Azure architecture and service guarantees
@@ -44,8 +45,10 @@ In this learning path, you will:
 1. Cloud Concepts - Principles of cloud computing
 
 > "Cloud computing in very simple terms, is basically where a company uses someone elses computing services that include compute power, storage, networking and analytics (usually over the internet) instead of having to run that software on their own computers."
+> "Benefits of cloud computing : It's cost-effective, scalable, elastic, current, reliable, global && secure"
 
 2. Core Cloud Services - Introduction to Azure
+
 > "lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. "
 
 ### I finish everything, What's next ?
@@ -57,8 +60,7 @@ You have to practice for the exam
 > " ➡️ Site m9ewd to prepare for the exam Azure AZ-900 ", [itexams](https://www.itexams.com/exam/AZ-900)。
 
 
-### Azure Data Center Location
+### BONUS : Azure Data Center Location
 
 <img src="https://joranmarkx.files.wordpress.com/2014/09/2014-09-15_21h45_08.png" width="621" height="306">
-
 
