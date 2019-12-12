@@ -47,3 +47,23 @@ Economies of scale is the ability to do things more efficiently or at a lower-co
 1. **Vertical scaling**, also known as **"scaling up"**, is the process of adding resources to increase the power of an existing server. Some examples of vertical scaling are: adding more CPUs, or adding more memory.
 
 2. **Horizontal scaling**, also known as **"scaling out"**, is the process of adding more servers that function together as one unit. For example, you have more than one server processing incoming requests.
+
+
+## Types of cloud services
+
+Based on a deployment model, we can classify cloud as:
+
+- public,
+- private,
+- hybrid
+- community cloud
+
+Based on a service the cloud model is offering, we are speaking of either:
+
+- IaaS (Infrastructure-as-a-Service)
+- PaaS (Platform-as-a-Service)
+- SaaS (Software-as-a-Service)or, Storage, Database, Information, Process, Application, Integration, Security, Management, Testing-as-a-service
+
+<p align="center">
+    <img src="https://www.globaldots.com/hubfs/Imported_Blog_Media/pas_ias_sas-1.png" height="300">
+</p>
