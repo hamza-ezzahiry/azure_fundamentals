@@ -41,6 +41,6 @@ alt="IMAGE ALT TEXT HERE" width="720" height="460" border="540" />
 
 ### Exercise - Create a website hosted in Azure
 
-You need to follow the **[steps](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/4-exercise-create-website")** and practice them, i can't resume this 
+You need to follow the **[steps](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/4-exercise-create-website)** and practice them, i can't resume this 
 
 
