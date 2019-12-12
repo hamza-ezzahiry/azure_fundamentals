@@ -28,7 +28,7 @@ Let's take a closer look at the most commonly-used categories:
 - Internet of Things
 - Big Data
 - Artificial Intelligence
-- DevOp
+- DevOps
 
 <div align="center">
 <img src="https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/media/3-azure-services.png#lightbox" 
