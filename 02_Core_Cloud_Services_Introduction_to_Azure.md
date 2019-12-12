@@ -1,3 +1,16 @@
-2. Core Cloud Services - Introduction to Azure
+# 2. Core Cloud Services - Introduction to Azure
 
-> "lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. "
+### Introduction
+
+> "Main idea : You will Learn after finishing this chapter what's Microsoft Azure is and how it relates to cloud computing
+And how to deploy and configure a web server"
+
+### What is Azure?
+
+Watch this video :
+
+<div align="center">
+<a  href="http://www.youtube.com/watch?feature=player_embedded&v=KXkBZCe699A
+" target="_blank"><img src="https://i.ytimg.com/vi/KXkBZCe699A/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+</div>
