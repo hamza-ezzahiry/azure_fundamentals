@@ -14,3 +14,23 @@ Watch this video :
 " target="_blank"><img src="https://i.ytimg.com/vi/KXkBZCe699A/maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 </div>
+
+### Tour of Azure services
+
+Let's take a closer look at the most commonly-used categories:
+
+- Compute
+- Networking
+- Storage
+- Mobile
+- Databases
+- Web
+- Internet of Things
+- Big Data
+- Artificial Intelligence
+- DevOp
+
+<div align="center">
+<img src="https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/media/3-azure-services.png#lightbox" 
+alt="IMAGE ALT TEXT HERE" width="720" height="460" border="540" />
+</div>
