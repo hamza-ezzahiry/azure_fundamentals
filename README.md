@@ -72,7 +72,7 @@ You have to practice for the exam
 
 <img src="https://joranmarkx.files.wordpress.com/2014/09/2014-09-15_21h45_08.png" width="621" height="306">
 
-## Contributors
+## Contributors ✨
 
 <p align="center"> This repo exists thanks to all the people who contribute.<br>
 <a href="https://github.com/hamza-ezzahiry/azure_fundamentals/graphs/contributors">
