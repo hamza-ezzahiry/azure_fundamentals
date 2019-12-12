@@ -30,7 +30,12 @@ Let's take a closer look at the most commonly-used categories:
 - Artificial Intelligence
 - DevOps
 
+> " The best part of Azure, you will only pay for what you use"
+
+Here's a big-picture view of the available services and features in Azure:
+
 <div align="center">
 <img src="https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/media/3-azure-services.png#lightbox" 
 alt="IMAGE ALT TEXT HERE" width="720" height="460" border="540" />
 </div>
+
