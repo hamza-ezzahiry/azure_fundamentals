@@ -47,3 +47,8 @@ You need to follow the **[steps](https://docs.microsoft.com/en-us/learn/modules/
 
 Same thing, follow the **[steps](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/5-exercise-configure-app-service)** and practice them, i can't resume this 
 
+### Exercise - Access an App Service using Azure Cloud Shelle
+
+#### What is Azure CLI?
+
+Azure CLI is a cross-platform command line tool, that is used to manage and administrate Microsoft Azure. It doesn’t replace PowerShell but provides an alternative to using managing Azure from the command line. 
