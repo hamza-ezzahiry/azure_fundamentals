@@ -7,6 +7,10 @@ And how to deploy and configure a web server"
 
 ### What is Azure?
 
+**Bonus :** Meaning of the word "azure" 
+
+>"bright blue in colour like a cloudless sky."
+
 Watch this video :
 
 <div align="center">
@@ -48,6 +52,8 @@ You need to follow the **[steps](https://docs.microsoft.com/en-us/learn/modules/
 Same thing, follow the **[steps](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/5-exercise-configure-app-service)** and practice them, i can't resume this 
 
 ### Exercise - Access an App Service using Azure Cloud Shelle
+
+follow the  **[steps](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/6-exercise-cloud-shell)**
 
 #### What is Azure CLI?
 
