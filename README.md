@@ -32,8 +32,8 @@ In this learning path, you will:
 
 **Table of Contents**
 
-- [ ] 01. Cloud Concepts - Principles of cloud computing
-- [ ] 02. Core Cloud Services - Introduction to Azure
+- [x] 01. Cloud Concepts - Principles of cloud computing
+- [x] 02. Core Cloud Services - Introduction to Azure
 - [ ] 03. Core Cloud Services - Azure architecture and service guarantees
 - [ ] 04. Create an Azure account
 - [ ] 05. Core Cloud Services - Manage services with the Azure portal
