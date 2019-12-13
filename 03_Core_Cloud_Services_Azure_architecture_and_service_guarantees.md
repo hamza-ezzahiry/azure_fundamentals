@@ -14,3 +14,8 @@ Main idea : In this module, you will:
 What is a region? 
 >"A **region** is a geographical area on the planet containing at least one, but potentially
  multiple datacenters that are nearby and networked together with a low-latency network. "
+
+<img src="https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/media/2-regions-large.png#lightbox" width="621" height="306">
+
+Why is important to know Azure regions ?
+>"Azure has more global regions than any other cloud provider. This gives you the flexibility to bring applications closer to your users no matter where they are. It also provides better scalability, redundancy, and preserves data residency for your services."
