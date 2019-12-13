@@ -43,7 +43,7 @@ alt="IMAGE ALT TEXT HERE" width="720" height="460" border="540" />
 
 You need to follow the **[steps](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/4-exercise-create-website)** and practice them, i can't resume this 
 
-### Exercice - Configurer un service d’application
+### Exercise - Configure an App Service
 
 Same thing, follow the **[steps](https://docs.microsoft.com/fr-fr/learn/modules/welcome-to-azure/5-exercise-configure-app-service)** and practice them, i can't resume this 
 
