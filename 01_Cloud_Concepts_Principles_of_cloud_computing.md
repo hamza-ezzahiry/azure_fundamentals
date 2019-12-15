@@ -1,12 +1,13 @@
-1. Cloud Concepts - Principles of cloud computing
+# 1. Cloud Concepts - Principles of cloud computing
+
+
+### Introduction
 
 > "Cloud computing in very simple terms, is basically where a company uses someone elses computing services that include compute power, storage, networking and analytics (usually over the internet) instead of having to run that software on their own computers."
 
 > "Benefits of cloud computing : It's cost-effective, scalable, elastic, current, reliable, global && secure"
 
-# Introduction
-
-## cloud computing services
+### cloud computing services
 
 - compute power: VMS, containers and serverless
 - storage: database...
@@ -23,7 +24,7 @@
 - global: datacenters located in various regions all over the globe.
 - secure: provide better security than most organizations can achieve(physical/digital security).
 
-## Compliance terms and requirements
+### Compliance terms and requirements
 
 In data storage terminology, the word compliance is used to refer to industry-wide government regulations and rules that cite how data is managed and the need for organizations to be in compliance with those regulations. [more](https://www.webopedia.com/TERM/C/compliance.html)
 
@@ -37,7 +38,7 @@ In data storage terminology, the word compliance is used to refer to industry-wi
 - Microsoft cloud services are certified according to the [FedRAMP](https://www.fedramp.gov/cloud-service-providers/) standards.
 - Azure has received official accreditation from the UK Government Pan Government Accreditor [(UK Government G-Cloud)](https://en.wikipedia.org/wiki/UK_Government_G-Cloud).
 
-## Economies of scale
+### Economies of scale
 
 Economies of scale is the ability to do things more efficiently or at a lower-cost per unit when operating at a larger scale. This cost advantage is an important benefit in cloud computing. Providers can then pass the savings on to their customers.
 
@@ -49,7 +50,7 @@ Economies of scale is the ability to do things more efficiently or at a lower-co
 2. **Horizontal scaling**, also known as **"scaling out"**, is the process of adding more servers that function together as one unit. For example, you have more than one server processing incoming requests.
 
 
-## Types of cloud services
+### Types of cloud services
 
 Based on a deployment model, we can classify cloud as:
 
