@@ -19,3 +19,9 @@ What is a region?
 
 Why is important to know Azure regions ?
 >"Azure has more global regions than any other cloud provider. This gives you the flexibility to bring applications closer to your users no matter where they are. It also provides better scalability, redundancy, and preserves data residency for your services."
+
+### Understand Geographies in Azure
+
+###  Understand Availability Zones in Azure
+
+### Understand Region Pairs in Azure
