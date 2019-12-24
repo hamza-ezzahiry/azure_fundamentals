@@ -1,8 +1,17 @@
-<p align="center">
-    <img src="https://i.imgur.com/jm1e5Hk.jpg" height="130">
-</p>
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-blue.svg?style=flat-square)](#contributors-)
 
-### About 
+
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/ "Azure fundamentals">
+    <img alt="Gatsby" src="https://i.imgur.com/jm1e5Hk.jpg" width="300" />
+  </a>
+</p>
+<h1 align="center">
+  Azure AZ-900 EXAM
+</h1>
+
+### About
+
 Here we post our resumes and resources about **[Azure fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/ "Azure fundamentals")**
 
 ### How to use it 
