@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/ "Azure fundamentals">
+  <a href="https://1337.ma"Azure fundamentals">
     <img alt="Gatsby" src="https://i.imgur.com/jm1e5Hk.jpg" width="300" />
   </a>
 </p>
